@@ -1,3 +1,7 @@
+
+<img width="704" height="913" alt="image" src="https://github.com/user-attachments/assets/63e17f50-9522-4290-96bd-846c3e5d9a1e" />
+
+
 # Flappy DSA Bird
 
 A Flappy-Bird–style game built for demonstrating Data Structures & Algorithms (DSA) concepts.
